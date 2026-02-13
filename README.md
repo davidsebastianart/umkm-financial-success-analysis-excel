@@ -12,7 +12,7 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 
 - **Source**: [Kaggle - MSME Dataset](https://www.kaggle.com/datasets/eskobar/msme-dataset)
 - **Records**: 251 UMKM profiles
-- **Target Variable**: `status_keberhasilan` (1 = Successful, 0 = Not Successful)
+- **Target Variable**: `Success_Label` (1 = Successful, 0 = Not Successful)
 - **Key Attributes**: Age, Education, Initial Capital, Financial Record Keeping, Marketing Effort, Internet Usage, Professional Advice, Industry Experience, Gender, etc.
 
 **Derived Features**:
