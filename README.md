@@ -38,17 +38,6 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 7. Does frequency of professional advice correlate with higher success?
 8. Which factors should be prioritized to increase UMKM success rate?
 
-## 📊 Dashboard Preview
-
-![UMKM Financial Performance & Success Factors Analysis Dashboard](dashboard/dashboard.png)
-
-## Dashboard Features
-
-- Fully interactive slicers (Financial Score, Gender, Marketing Category, Internet Usage)
-- Clean, professional layout with consistent color scheme
-- Multiple chart types: Pie, 100% Stacked Bar, Clustered Column, Line + Column Combo
-- Executive summary & actionable recommendations
-
 ## 🔍 Key Insights
 
 - **Overall UMKM Success Rate**: **24.80%** Successful
@@ -57,7 +46,7 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 - **Gender**: Male-owned businesses show **56%** success rate vs **44%** for female-owned
 - **Moderate financial discipline** outperforms both "Strong" and "Weak" categories in this dataset
 
-## Recommendations to Improve UMKM Success Rate
+## 🔑 Recommendations to Improve UMKM Success Rate
 
 1. **Prioritize Financial Management Improvements**  
    - UMKM with "Strong" Financial Score Category show a success rate of **24.40%**, while "Weak" only reach **24.00%** (minimal gap visible in this dataset).  
@@ -72,6 +61,17 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 3. **Encourage Professional Consultation**  
    - Higher Professional Advice frequency (scores 5–7) shows fluctuating but generally positive correlation with success rate (around 10–20%) and financial score.  
    - **Recommendation**: Facilitate regular access to mentors, consultants, or business incubators to increase consultation frequency.
+
+## 📊 Dashboard Preview
+
+![UMKM Financial Performance & Success Factors Analysis Dashboard](dashboard/dashboard.png)
+
+## Dashboard Features
+
+- Fully interactive slicers (Financial Score, Gender, Marketing Category, Internet Usage)
+- Clean, professional layout with consistent color scheme
+- Multiple chart types: Pie, 100% Stacked Bar, Clustered Column, Line + Column Combo
+- Executive summary & actionable recommendations
 
 ## How to Explore
 
