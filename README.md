@@ -52,12 +52,6 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 
 ![UMKM Financial Performance & Success Factors Analysis Dashboard](dashboard/dashboard.png)
 
----
-
-👨‍💻 Created by: **David Sebastian Aritonang**  
-📧 Email: [davidsebastianartt@gmail.com](mailto:davidsebastianartt@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/david-sartt](https://www.linkedin.com/in/david-sartt/) 
-
 ## Dashboard Features
 
 - Fully interactive slicers (Financial Score, Gender, Marketing Category, Internet Usage)
@@ -68,16 +62,11 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 ## How to Explore
 
 1. Download `UMKM_Financial_Dashboard.xlsx`
-2. Enable editing (if prompted)
-3. Go to **Dashboard** sheet
-4. Use the slicers to interact with all charts simultaneously
-
-## Author
-
-**DataNerdID**  
-Data Analyst Portfolio Project  
-Built with ❤️ using Microsoft Excel (Advanced)
+2. Go to **Dashboard** sheet
+3. Use the slicers to interact with all charts simultaneously
 
 ---
 
-**Last Updated**: February 2026
+👨‍💻 Created by: **David Sebastian Aritonang**  
+📧 Email: [davidsebastianartt@gmail.com](mailto:davidsebastianartt@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/david-sartt](https://www.linkedin.com/in/david-sartt/) 
