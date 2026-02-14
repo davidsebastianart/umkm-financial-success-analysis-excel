@@ -75,7 +75,7 @@ The analysis focuses on **financial health**, **marketing efforts**, **digital a
 
 ## How to Explore
 
-1. Download `UMKM_Financial_Success_Analysis.xlsx.xlsx`
+1. Download `UMKM_Financial_Success_Analysis.xlsx`
 2. Go to **Dashboard** sheet
 3. Use the slicers to interact with all charts simultaneously
 
